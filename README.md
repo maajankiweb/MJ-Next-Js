@@ -125,4 +125,4 @@ CMD ["npm", "start"]
 
 ---
 
-© 2025 PI Soft Informatics. All rights reserved.
+© 2025 MJ Bytech. All rights reserved.

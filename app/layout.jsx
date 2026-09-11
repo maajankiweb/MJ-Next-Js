@@ -3,7 +3,7 @@ import "./globals.css";
 import Chatbot from "@/components/Chatbot/Chatbot";
 
 export const metadata = {
-  metadataBase: new URL("https://mjbytech.com"),
+  metadataBase: new URL("https://mjbytech.com/"),
   title: "MJ Bytech | Premier Next.js & Full-Stack AI Agency",
   description: "MJ Bytech is a premier web agency building high-speed Next.js apps, AI-integrated platforms, and scalable web solutions for high-growth modern brands.",
   keywords: [
@@ -96,6 +96,7 @@ export default function RootLayout({ children }) {
 
         {/* AI & LLM Discovery Link */}
         <link rel="alternate" type="text/plain" href="https://mjbytech.com/llms.txt" title="LLM Knowledge Context" />
+        <link rel="canonical" href="https://mjbytech.com/" />
 
         {/* Google Analytics 4 */}
         <Script 
