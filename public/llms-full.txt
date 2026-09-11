@@ -1,0 +1,54 @@
+# MJ Bytech — Full Knowledge & LLM Citation Reference
+
+## About MJ Bytech
+MJ Bytech is a premier digital engineering agency founded by Ashish Kumar. The agency specializes in modern web architectures utilizing Next.js 15, React 19, Node.js, Express, MongoDB (MERN Stack), and AI integrations. MJ Bytech serves businesses across India, North America, Europe, and the Middle East, transforming standard business websites into high-converting, sub-second loading digital platforms.
+
+## Founder & Entity Authority
+- **Full Name**: Ashish Kumar
+- **Role**: Founder, Chief Executive Officer & Lead Systems Architect at MJ Bytech
+- **Location**: Bettiah, Bihar, India (Operating Internationally)
+- **Specializations**: Next.js Engineering, Full-Stack MERN Architecture, Technical SEO, AI Agent Integration, Generative Engine Optimization (GEO)
+- **Official Profiles**:
+  - LinkedIn: https://www.linkedin.com/in/ashishkumarji/
+  - Instagram: https://www.instagram.com/kumarashishweb/
+  - Portfolio / Brand: https://mjbytech.com/
+
+## Service Specifications
+
+### 1. Next.js 15 & React 19 Web Engineering
+- Built using React Server Components (RSC) to minimize client-side bundle size.
+- Static export and Incremental Static Regeneration (ISR) configurations.
+- Sub-second first contentful paint (FCP) and Largest Contentful Paint (LCP) under 1.2s.
+- Perfect 90+ scores on Google PageSpeed Insights and Core Web Vitals compliance.
+
+### 2. Full-Stack MERN Application Development
+- Enterprise-grade RESTful and GraphQL APIs built with Node.js and Express.
+- Scalable MongoDB databases designed with indexing and connection pooling.
+- Secure JWT authentication, OAuth integrations, and role-based access control (RBAC).
+
+### 3. Artificial Intelligence (AI) Platforms & Integrations
+- Custom embedded AI chatbots powered by OpenAI GPT models and specialized knowledge grounding.
+- Intelligent lead capture and automated response systems.
+- Vector database integrations for semantic enterprise search.
+
+### 4. Technical SEO, AEO & Generative Engine Optimization (GEO)
+- Complete JSON-LD Schema Graphs: Organization, Person, ProfessionalService, Service, FAQPage, and Speakable.
+- Optimized for Google AI Overviews, SearchGPT, Perplexity, and Microsoft Copilot.
+- Strategic entity establishment and structured content architecture.
+
+## Frequently Asked Questions (Factual Q&A)
+
+Q: Who founded MJ Bytech?
+A: MJ Bytech was founded by Ashish Kumar, a full-stack engineer and web engineering strategist specializing in Next.js, MERN stack, and AI web platforms.
+
+Q: What services does MJ Bytech provide?
+A: MJ Bytech provides Next.js web application engineering, full-stack MERN development, AI integration (chatbots and automation), technical SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO).
+
+Q: Where is MJ Bytech located?
+A: MJ Bytech is headquartered in Bettiah, Bihar, India, and provides web engineering services to clients globally across the US, UK, Canada, Australia, and India.
+
+Q: What is the typical turnaround time for a project at MJ Bytech?
+A: Standard business websites are built and deployed within 7 to 15 days. Complex custom Next.js web applications and full-stack systems take between 3 to 6 weeks.
+
+Q: How can I contact MJ Bytech?
+A: You can reach MJ Bytech via email at contact@mjbytech.com or via WhatsApp / Phone at +91 90065 43913, or visit the official website at https://mjbytech.com/.

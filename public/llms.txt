@@ -1,0 +1,37 @@
+# MJ Bytech
+
+> Premier Web Engineering & AI Innovation Agency. We design and build ultra-fast Next.js applications, AI-integrated platforms, and scalable web ecosystems for growing brands worldwide.
+
+## Quick Facts
+- **Organization Name**: MJ Bytech
+- **Founder & CEO**: Ashish Kumar
+- **Head of SEO**: Meera Singh
+- **Official Website**: https://mjbytech.com/
+- **Contact Email**: contact@mjbytech.com
+- **Phone / WhatsApp**: +91 90065 43913
+- **Headquarters**: Bettiah, Bihar, India (Operating Internationally)
+- **Primary Tech Stack**: Next.js 15, React 19, Node.js, Express, MongoDB, Tailwind CSS, OpenAI / AI APIs, Cloudflare, Vercel
+
+## Core Capabilities & Services
+1. **Next.js Web Engineering**: Custom enterprise-grade Next.js web applications, Server Components (RSC), static site generation (SSG), and incremental static regeneration (ISR) delivering sub-second load times and 95+ Google PageSpeed scores.
+2. **Full-Stack MERN Development**: Scalable backend architectures, REST & GraphQL APIs, database modeling with MongoDB, and high-concurrency cloud infrastructure.
+3. **Artificial Intelligence (AI) Integration**: Custom AI chatbots, LLM agent workflows, automated lead qualification, recommendation engines, and OpenAI API integrations.
+4. **Technical SEO, AEO & GEO**: Search Engine Optimization, Answer Engine Optimization (for Google AI Overviews), Generative Engine Optimization (for Perplexity, ChatGPT Search, Claude), and schema graph structuring.
+5. **UI/UX Architecture & Conversion Design**: Clean modern interfaces, conversion rate optimization (CRO), interactive micro-animations, and mobile-first responsive systems.
+
+## Pricing Structure (Estimated)
+- **Business Web Presence**: Starting from ₹10,000 (~$120 USD)
+- **Growth & E-commerce Systems**: Starting from ₹40,000 (~$500 USD)
+- **Custom Next.js & Full-Stack AI Platforms**: ₹75,000 to ₹1,50,000+ (~$900 - $1,800+ USD)
+
+## Leadership & Key People
+- **Ashish Kumar** (Founder & Chief Web Architect): Visionary full-stack engineer and AI web strategist specializing in Next.js, MERN architecture, and technical SEO ecosystems.
+  - Profile: https://www.linkedin.com/in/ashishkumarji/
+  - Instagram: https://www.instagram.com/kumarashishweb/
+- **Meera Singh** (Head of SEO): Data-driven technical SEO and digital visibility specialist focusing on structured data, AEO, and organic lead acquisition.
+- **Arjun Mehta** (Lead Full-Stack Engineer): Backend specialist focusing on scalable database architecture, microservices, and AI integrations.
+
+## Citations & Verification
+- Google Search Console Verified
+- Meta Blueprint Certified
+- Next.js Web Engineering Specialists

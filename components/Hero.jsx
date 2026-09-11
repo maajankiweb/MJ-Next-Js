@@ -27,6 +27,8 @@ export default function Hero() {
   return (
     <section
       id="home"
+      itemScope
+      itemType="https://schema.org/ProfessionalService"
       ref={containerRef}
       onMouseMove={handleMouseMove}
       className="relative min-h-[90vh] lg:min-h-screen flex items-center justify-center overflow-hidden bg-[#fafaf8] pt-32 pb-20 lg:pt-36 lg:pb-0 mt-8 lg:mt-0"
@@ -61,13 +63,14 @@ export default function Hero() {
             </motion.div>
 
             <h1 
+              itemProp="name"
               className="text-4xl md:text-5xl lg:text-6xl font-black mb-6 leading-[1.05] lg:leading-[0.95] tracking-tight text-[#0e0c1a]"
               style={{ fontFamily: "'Cabinet Grotesk', sans-serif" }}
             >
               India's <span className="text-primary">Premier Web Engineering</span> & AI Innovation Agency
             </h1>
 
-            <p className="text-base md:text-lg lg:text-xl text-[#4a4869] mb-10 leading-relaxed max-w-xl mx-auto lg:mx-0 font-medium opacity-80">
+            <p itemProp="description" className="text-base md:text-lg lg:text-xl text-[#4a4869] mb-10 leading-relaxed max-w-xl mx-auto lg:mx-0 font-medium opacity-80">
               MJ Bytech provides top-notch Next.js engineering, scalable MERN web applications, and AI integration worldwide. You're getting a high-converting digital growth system built for performance.
             </p>
 
@@ -85,33 +88,26 @@ export default function Hero() {
               </a>
             </motion.div>
 
-            {/* Proof Badges */}
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ delay: 0.7 }}
-              className="flex flex-wrap items-center justify-center gap-5 lg:justify-start lg:gap-8"
-            >
-              {trustBadges.map((badge, i) => (
-                <div key={i} className="flex items-center gap-2 text-[10px] lg:text-xs font-bold text-[#4f46e5] opacity-70">
-                  <FiCheckCircle className="text-[#6a1b9a]" />
-                  {badge}
-                </div>
-              ))}
-            </motion.div>
+            {/* Micro Trust Proof */}
+            <div className="flex flex-wrap items-center justify-center gap-6 pt-6 border-t border-[#0e0c1a]/10 lg:justify-start">
+              <div className="flex items-center gap-2 text-xs font-semibold text-[#4a4869]">
+                <FiCheckCircle className="text-[#27c93f] text-sm" /> 95+ PageSpeed Score
+              </div>
+              <div className="flex items-center gap-2 text-xs font-semibold text-[#4a4869]">
+                <FiCheckCircle className="text-[#27c93f] text-sm" /> Next.js 15 & React 19
+              </div>
+              <div className="flex items-center gap-2 text-xs font-semibold text-[#4a4869]">
+                <FiCheckCircle className="text-[#27c93f] text-sm" /> AI & GEO Engineered
+              </div>
+            </div>
           </motion.div>
 
-          {/* Visual Content (3D Card) */}
+          {/* 3D Visual Column */}
           <motion.div
-            initial={{ opacity: 0, scale: 0.9, y: 30 }}
-            animate={{ opacity: 1, scale: 1, y: 0 }}
-            transition={{ duration: 1.2, ease: [0.23, 1, 0.32, 1], delay: 0.2 }}
-            style={{
-              rotateX: typeof window !== 'undefined' && window.innerWidth >= 1024 ? rotateX : 0,
-              rotateY: typeof window !== 'undefined' && window.innerWidth >= 1024 ? rotateY : 0,
-              transformStyle: "preserve-3d",
-              perspective: 1000,
-            }}
+            style={{ rotateX, rotateY, transformStyle: "preserve-3d" }}
+            initial={{ opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ duration: 1, ease: [0.23, 1, 0.32, 1] }}
             className="relative order-2 px-4 lg:px-0 mt-8 lg:mt-0"
           >
             {/* Hero Image Container */}
@@ -125,7 +121,7 @@ export default function Hero() {
               <div className="absolute inset-0 z-10 pointer-events-none">
                 <Image 
                   src="/ashish-nobg.png" 
-                  alt="Ashish - MJ Bytech" 
+                  alt="Ashish Kumar - Founder & Chief Web Architect at MJ Bytech" 
                   fill
                   priority
                   sizes="(max-width: 1024px) 100vw, 50vw"

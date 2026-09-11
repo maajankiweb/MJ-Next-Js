@@ -52,11 +52,11 @@ export default function About() {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <h3 className="mb-6 text-4xl font-bold text-gray-900 md:text-5xl">
+            <h2 className="mb-6 text-4xl font-bold text-gray-900 md:text-5xl">
               <span className="text-[#6a1b9a]">Premier Next.js & Full-Stack</span> Web Engineering Agency
-            </h3>
+            </h2>
             <p className="mb-10 text-lg leading-relaxed text-gray-600">
-              At MJ Bytech, we help businesses build scalable digital architectures. As a premier web engineering agency, we specialize in high-speed Next.js development, technical SEO, and custom software solutions to skyrocket your growth.
+              At MJ Bytech, we help businesses build scalable digital architectures. Founded by Ashish Kumar, our premier web engineering agency specializes in high-speed Next.js 15 development, technical SEO, Generative Engine Optimization (GEO), and custom AI software solutions to skyrocket your growth.
             </p>
 
             <a 
